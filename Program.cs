@@ -1,4 +1,10 @@
-﻿using System;
+/*
+  Author: SM Zaman
+  Date: 01/26/2023
+  Description: Delieverable (3) Iterative Statement
+*/
+
+using System;
 namespace Deliverable__3____
 {
     class Program
